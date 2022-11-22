@@ -6,6 +6,7 @@ import javafx.scene.paint.Color;
  * @author Ben Avrahami
  *
  */
+
 public class MyOval extends MyBoundedShape {
 
 	/**
